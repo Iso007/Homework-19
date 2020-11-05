@@ -1,0 +1,22 @@
+{
+  "name": "homework-19",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iso007/Homework-19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iso007/Homework-19/issues"
+  },
+  "homepage": "https://github.com/Iso007/Homework-19#readme",
+  "dependencies": {
+    "react-dom": "^17.0.1"
+  }
+}
